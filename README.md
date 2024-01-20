@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm a developer passionate about continuous learning and creating meaningful projects.</h2>
+<h2 align="center">👋 Hi, I am someone who is passionate about continuing to learn and create projects.</h2>
 
 ###
 
