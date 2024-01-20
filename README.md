@@ -1,10 +1,12 @@
-<h2 align="center">I'm a developer passionate about continuous learning and creating meaningful projects.</h2>
+<h2 align="center">👋 Hi, I'm a developer passionate about continuous learning and creating meaningful projects.</h2>
 
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ba/6b/78/ba6b78fc8d91290fc112805e4d15d976.gif"  />
 
 ###
+
+### ⚙️ Tech Stack 🚀
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -30,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
 </div>
 
-###
+### 🤝 Community Involvement and 📚 Learning
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
