@@ -4,24 +4,28 @@
 
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    full_name = "Apik Wibisono"
-    user_name = "scraviex"
-    currently_learning = "Javascript, PHP, Python"
-    fun_fact = "Still staying true to the process."
-	hobbies = [
-		'Music',
-		'Gaming',
-		'Movies'
-	]
-	
-	def getCity():
-		return Ciamis_Indonesia()
-	
-	def Ambitions():
-		BecomeFullStackDevelover()
-		FinishMyProjects()
+ ``` javascript
+
+  class WhoAmI {
+    constructor() {
+        this.fullName = "Apik Wibisono";
+        this.userName = "scraviex";
+        this.currentlyLearning = "Javascript, PHP, Python";
+        this.funFact = "Still staying true to the process.";
+        this.hobbies = ['Music', 'Gaming', 'Movies'];
+    }
+
+    getCity() {
+        return "Ciamis, Indonesia";
+    }
+
+    ambitions() {
+        return [
+            "Become a Full-Stack Developer",
+            "Finish My Projects"
+        ];
+    }
+}
 	
  ``` 
 
