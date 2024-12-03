@@ -11,10 +11,10 @@
     currently_learning = "Javascript, PHP, Python"
     fun_fact = "Still staying true to the process."
 	hobbies = [
-				'Music',
-			 	'Gaming',
-				'Movies'
-			]
+		'Music',
+		'Gaming',
+		'Movies'
+	]
 	
 	def getCity():
 		return Ciamis_Indonesia()
