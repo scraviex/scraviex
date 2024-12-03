@@ -8,26 +8,23 @@
 
   class WhoAmI {
     constructor() {
-        this.fullName = "Apik Wibisono";
-        this.userName = "@scraviex";
-        this.currentlyLearning = ["JS", "PHP", "Python 🚀"];
-        this.funFact = "Still vibin' through the grind 😎";
-        this.hobbies = ['🎵 Music', '🎮 Gaming', '🎬 Movies', 'Sleep Zz'];
+        this.fullName = "Apik Wibisono"; // Nama keren, gak pake basa-basi
+        this.userName = "scraviex"; // Username wajib aesthetic 
+        this.currentlyLearning = "JS, PHP, Python (grind mode on 💻)";
+        this.funFact = "Still vibin' with the process ✨"; // Santai aja, progress is progress
+        this.hobbies = ['Music 🎶', 'Gaming 🎮', 'Movies 🍿', 'Sleep zZz 😴']; // Life balance, ya kan?
     }
 
     getCity() {
-        return "Ciamis, Indonesia 🌴";
+        return "Ciamis, Indonesia 🏞️"; // Represent hometown dengan pride
     }
 
     ambitions() {
         return [
-            "💻 Full-Stack Dev status, let's go!",
-            "✨ Ship those passion projects!"
+            "Back End Developer 🚀", 
+            "Full-Stack Developer (one day, maybe 🤷)", 
+            "Actually finishing my side projects (finally 😅)"
         ];
-    }
-
-    vibes() {
-        return "Stay hydrated, keep coding 💧👨‍💻";
     }
 }
 	
