@@ -5,7 +5,8 @@
 
  ```python
   class WhoAmI:
-    user = 'Aviex Ripka'
+    full_name = "Apik Wibisono"
+    user_name = "scraviex"
     currently_learning = "Javascript, PHP, Python"
     fun_fact = "Still staying true to the process."
 	hobbies = [
