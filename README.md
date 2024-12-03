@@ -1,4 +1,5 @@
 <h2 align="center">👋 Hi, I am someone who is passionate about continuing to learn and create projects.</h2>
+
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 ## Who am I?
