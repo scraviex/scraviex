@@ -9,21 +9,25 @@
   class WhoAmI {
     constructor() {
         this.fullName = "Apik Wibisono";
-        this.userName = "scraviex";
-        this.currentlyLearning = "Javascript, PHP, Python";
-        this.funFact = "Still staying true to the process.";
-        this.hobbies = ['Music', 'Gaming', 'Movies'];
+        this.userName = "@scraviex";
+        this.currentlyLearning = ["JS", "PHP", "Python 🚀"];
+        this.funFact = "Still vibin' through the grind 😎";
+        this.hobbies = ['🎵 Music', '🎮 Gaming', '🎬 Movies', 'Sleep Zz'];
     }
 
     getCity() {
-        return "Ciamis, Indonesia";
+        return "Ciamis, Indonesia 🌴";
     }
 
     ambitions() {
         return [
-            "Become a Full-Stack Developer",
-            "Finish My Projects"
+            "💻 Full-Stack Dev status, let's go!",
+            "✨ Ship those passion projects!"
         ];
+    }
+
+    vibes() {
+        return "Stay hydrated, keep coding 💧👨‍💻";
     }
 }
 	
